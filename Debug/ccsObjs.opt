@@ -1,0 +1,1 @@
+"./BufferUart.obj" "./CimiInit.obj" "./IOMessage.obj" "./Modul.obj" "./Uart.obj" "./UartInit.obj" "./buttons.obj" "./crc16.obj" "./main.obj" "./tm4c1294ncpdt_startup_ccs.obj" "../tm4c1294ncpdt.cmd" -l"libc.a" -l"D:\ti\tivaware1924XL\driverlib\ccs\Debug\driverlib.lib" 
